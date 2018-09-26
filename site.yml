@@ -8,6 +8,5 @@
     ansible_become: yes
 
   roles:
-    - jdk
     - tomcat8
 
