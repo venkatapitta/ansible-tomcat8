@@ -8,5 +8,6 @@
     ansible_become: yes
 
   roles:
+    -oracle-jdk8
     - tomcat8
 
